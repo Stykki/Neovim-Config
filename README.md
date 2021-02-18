@@ -1,6 +1,6 @@
 # Neovim-Config
 # Clone this repo into
-Windows : C:\Users\{user}\\.config\nvim
+Windows : C:\Users\\{user}\\.config\nvim
 
   
 git clone git@github.com:Stykki/Neovim-Config.git
